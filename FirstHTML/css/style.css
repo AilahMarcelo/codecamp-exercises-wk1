@@ -1,0 +1,27 @@
+h1 {
+	font-size: 50px;
+	color: #FF00F2;
+	text-transform: uppercase;
+	font-weight: bolder;
+
+	/* this is a comment*/
+}
+
+#header{
+	font-size: 25px;
+	color: #FF00EE;
+}
+
+#jindo{
+	width: 50%;
+	height: auto;
+}
+
+.list{
+	font-size: 100px;
+}
+
+#fb{
+	text-decoration: none;
+	color: #000;
+}
