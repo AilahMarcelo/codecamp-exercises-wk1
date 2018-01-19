@@ -9,3 +9,4 @@ The second Vivixx Code Camp Exercise is about Web Page Layouts. The objective of
 ![alt text](http://www.jhigh.co.uk/ITIntroCourses/S2Courses/DreamweaverWebsite/images/layoutIdeas/layoutideas-1-3Boxes.jpg "Three Boxes Webpage Layouts")
 
 
+
